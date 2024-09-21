@@ -14,4 +14,4 @@ RUN pip install --no-cache-dir -r requirements.txt
 EXPOSE 80
 
 # 运行Python脚本
-CMD ["python", "TGouyichax.py"]
+CMD ["python", "main.py"]
